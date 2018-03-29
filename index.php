@@ -1,5 +1,7 @@
 <?php
+  
+  echo "Olá mundo";
 
-	echo "Hello World!"
+  echo "Isso aqui tá muito chato de entender";
 
 ?>
